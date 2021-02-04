@@ -1,3 +1,3 @@
 # Rent-Comparison-Page
 
-Time? - Practice some JavaScript!
+What is the Time? - Practice some JavaScript!
